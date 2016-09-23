@@ -1,3 +1,3 @@
-*LinkUp Game Server/Client pratice project*
+*Shaders*
 
-This is a practice project, it is not well programmed nor organized, and probably with some bugs.
+Many practice ShaderLab shaders
